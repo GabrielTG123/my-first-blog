@@ -1,6 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Static folder at project root
+/static/
+
 # Python
 *.pyc
 *~
@@ -14,8 +18,6 @@ venv/
 # Database
 db.sqlite3
 
-# Static folder at project root
-/static/
 # Windows
 Thumbs.db*
 ehthumbs*.db
